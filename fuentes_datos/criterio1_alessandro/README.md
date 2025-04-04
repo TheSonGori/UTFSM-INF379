@@ -8,7 +8,7 @@
 Los datos fueron extraídos manualmente desde FBref, expecíficamente desde la tabla **2017-2018 Match Logs (Summary)** utilizando la opcion **All Competitions** de cada jugador correspondiente, especificamente se extrajo la ultima fila la cual corresponde a las estadisticas totales correspondientes a la temporada 2017-2018 del jugador, considerando todas las competiciones a nivel de clubes y a nivel de selección. El unico archivo `.xlsx` posee dos filas, una para cada jugador con el total de estadisticas mencionadas anteriormente.
 
 ### 📁 Archivos incluidos:
-- `criterio1_alessandro.xlsx
+- `criterio1_alessandro.xlsx`
 
 ### 📄 Formato de los archivos:
 El archivo tiene el siguiente formato de columnas:
