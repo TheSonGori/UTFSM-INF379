@@ -11,5 +11,5 @@ Los datos fueron extraídos manualmente desde FBref, expecíficamente desde la t
 - `criterio2_alessandro.xlsx`
 
 ### 📄 Formato de los archivos:
-El archivo tiene el siguiente formato de columnas:\\
- Player | Season | Age | Squad | Gls | Ast | G+A
+El archivo tiene el siguiente formato de columnas:<br>
+- Player | Season | Age | Squad | Gls | Ast | G+A

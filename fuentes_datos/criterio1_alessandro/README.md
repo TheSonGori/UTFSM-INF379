@@ -11,5 +11,5 @@ Los datos fueron extraídos manualmente desde FBref, expecíficamente desde la t
 - `criterio1_alessandro.xlsx`
 
 ### 📄 Formato de los archivos:
-El archivo tiene el siguiente formato de columnas:\\
- Player | Gls | Ast | PK | PKatt | Sh | SoT | Touches | Tkl | Int | xG | npxG | xAG | SCA | GCA | Cmp | Att | Cmp% | PrgP | Carries | PrgC | Att2 |Succ
+El archivo tiene el siguiente formato de columnas:<br>
+- Player | Gls | Ast | PK | PKatt | Sh | SoT | Touches | Tkl | Int | xG | npxG | xAG | SCA | GCA | Cmp | Att | Cmp% | PrgP | Carries | PrgC | Att2 |Succ
