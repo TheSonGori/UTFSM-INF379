@@ -4,7 +4,7 @@ import pandas as pd
 from soccerplots.radar_chart import Radar
 
 #LEEMOS LOS DATOS Y NOS QUEDAMOS SOLO CON LOS NECESARIOS PARA EL ANALISIS
-df = pd.read_excel('C:\\Users\\LENOVO\\Desktop\\USM\\Ramos\\2025 I Visualizacion de Datos\\Tareas\\UTFSM-INF379\\fuentes_datos\\messi_cristiano_2017-2018.xlsx')
+df = pd.read_excel("../../fuentes_datos/criterio1_alessandro/criterio1_alessandro.xlsx")
 df = df[['Player', 'Gls', 'Ast', 'Sh', 'SoT', 'xG', 'xAG', 'Touches', 'Cmp', 'Att', 'Cmp%']]
 
 #AJUSTAMOS LOS PARAMETROS

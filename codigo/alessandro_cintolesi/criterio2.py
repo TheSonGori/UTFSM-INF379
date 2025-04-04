@@ -3,7 +3,7 @@ import seaborn as sns
 import pandas as pd
 
 #LEEMOS LOS DATOS Y NOS QUEDAMOS SOLO CON LOS NECESARIOS PARA EL ANALISIS
-df = pd.read_excel('C:\\Users\\LENOVO\\Desktop\\USM\\Ramos\\2025 I Visualizacion de Datos\\Tareas\\UTFSM-INF379\\fuentes_datos\\messi_cristiano_carrera.xlsx')
+df = pd.read_excel("../../fuentes_datos/criterio2_alessandro/criterio2_alessandro.xlsx")
 df = df[['Player', 'G+A']]
 
 #DISEÑO DEL VIOLIN PLOT
